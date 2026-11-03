@@ -1,0 +1,33 @@
+# Secrets and signing material
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+secrets/
+signing/
+
+# Build output
+build/
+dist/
+out/
+.gradle/
+.idea/
+.vscode/
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Local application packages: publish as GitHub Release assets
+*.apk
+*.aab
+*.exe
+*.dmg
+*.app/
+*.zip
+
+# Local media unless deliberately added
+# demo/*.mp4

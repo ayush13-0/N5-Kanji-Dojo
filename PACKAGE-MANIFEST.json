@@ -1,0 +1,15 @@
+{
+  "repository": "N5-Kanji-Dojo",
+  "owner": "ayush13-0",
+  "package_type": "documentation-and-github-scaffold",
+  "generated_files": 32,
+  "not_included": [
+    "actual application source code",
+    "Android APK binary",
+    "Windows installer binary",
+    "macOS application ZIP binaries",
+    "demonstration MP4",
+    "private signing keys or certificates"
+  ],
+  "note": "Platform versions and feature statements are based on the supplied project handover and have not been independently re-verified."
+}
